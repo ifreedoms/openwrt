@@ -1,0 +1,6 @@
+src-git packages https://github.com/ifreedoms/packages.git^0bcd6bb
+src-git luci https://github.com/ifreedoms/luci.git^27793bd
+src-git routing https://git.openwrt.org/feed/routing.git^83ef378
+src-git telephony https://git.openwrt.org/feed/telephony.git^9746ae8
+src-git helloworld https://github.com/ifreedoms/helloworld.git^8da98a4
+src-git OpenClash https://github.com/ifreedoms/OpenClash.git^38035ef
